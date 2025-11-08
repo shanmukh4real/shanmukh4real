@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shanmukha%20Sai&fontSize=90" />
 <!--
 **shanmukh4real/shanmukh4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
